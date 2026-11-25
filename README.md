@@ -1,0 +1,60 @@
+# M433 · Meter
+
+Ward-Beck Systems M433, 1992|25. Wiki page: [M433 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M433.html)
+
+| Folder | What is in it | Files |
+|---|---|---|
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 12 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 137 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
+
+## Schematics
+
+_Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
+
+<table>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb2dwNGV6bjktRWM/view?resourcekey=0-XsCaOJv9T140QAJ61ZdZ6Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb2dwNGV6bjktRWM&resourcekey=0-XsCaOJv9T140QAJ61ZdZ6Q" width="240" alt="1992 - M433 - 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC.jpg"></a><br><sub>1992|25 · 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC · <a href="SCHEMATICS/1992%20-%20M433%20-%2014-060-02-001%20-%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTFRjTnB6bUlpRWs/view?resourcekey=0-ZOE8ta4wXviPFm6sNN9zXA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTFRjTnB6bUlpRWs&resourcekey=0-ZOE8ta4wXviPFm6sNN9zXA" width="240" alt="1992 - M433 - 14-060-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>1992|25 · 14-060-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT · <a href="SCHEMATICS/1992%20-%20M433%20-%2014-060-06-001%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+</table>
+
+Not on Google Drive yet: `19xx - 14-060-02-001.jpg`
+
+## Pinouts
+
+_Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
+
+Not on Google Drive yet: `M433 - RTO-144 Connections.pdf`
+
+## Manuals and documents
+
+_Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
+
+<table>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKandLc0h6d2VYaFU/view?resourcekey=0-wXl6WVktFtYVhKVgqI7HsQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKandLc0h6d2VYaFU&resourcekey=0-wXl6WVktFtYVhKVgqI7HsQ" width="240" alt="1992 - M433 - 434 - P001 - Title Page.jpg"></a><br><sub>1992|25 · 434 - P001 - Title Page</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbTBsbzQta3FtZzA/view?resourcekey=0-Oe0nqega_de9R6e-Dm2KbA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbTBsbzQta3FtZzA&resourcekey=0-Oe0nqega_de9R6e-Dm2KbA" width="240" alt="1992 - M433 - 434 - P002 - 1-1.jpg"></a><br><sub>1992|25 · 434 - P002 - 1-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZjFaR19wWUF2dWs/view?resourcekey=0-cfu9F2OiCTQkvlJr7HgBGQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZjFaR19wWUF2dWs&resourcekey=0-cfu9F2OiCTQkvlJr7HgBGQ" width="240" alt="1992 - M433 - 434 - P003 - 2-1.jpg"></a><br><sub>1992|25 · 434 - P003 - 2-1</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWGhlQk5zbFJWQ0E/view?resourcekey=0-txQShbCfcYsC24rOCMTpXg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWGhlQk5zbFJWQ0E&resourcekey=0-txQShbCfcYsC24rOCMTpXg" width="240" alt="1992 - M433 - 434 - P004 - 3-1.jpg"></a><br><sub>1992|25 · 434 - P004 - 3-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY3VXeEtWZHRhSWM/view?resourcekey=0-e3i8lVqrlPSiAC1lFd9acQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY3VXeEtWZHRhSWM&resourcekey=0-e3i8lVqrlPSiAC1lFd9acQ" width="240" alt="1992 - M433 - 434 - P005 - 3-2.jpg"></a><br><sub>1992|25 · 434 - P005 - 3-2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSWhldW5waHJvMnc/view?resourcekey=0-0Th7xZyeBMOQjjhbyGVJmA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSWhldW5waHJvMnc&resourcekey=0-0Th7xZyeBMOQjjhbyGVJmA" width="240" alt="1992 - M433 - 434 - P006 - 3-3.jpg"></a><br><sub>1992|25 · 434 - P006 - 3-3</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUjV5b2ZDMlByaG8/view?resourcekey=0-hr786v1bRkRlTmc59ZjVWw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUjV5b2ZDMlByaG8&resourcekey=0-hr786v1bRkRlTmc59ZjVWw" width="240" alt="1992 - M433 - 434 - P007 - 4-1.jpg"></a><br><sub>1992|25 · 434 - P007 - 4-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbkRJcUxGSHJ0WW8/view?resourcekey=0-Y1JS_ADEv0m8XDk_kzMTjA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbkRJcUxGSHJ0WW8&resourcekey=0-Y1JS_ADEv0m8XDk_kzMTjA" width="240" alt="1992 - M433 - 434 - P008 - 4-2.jpg"></a><br><sub>1992|25 · 434 - P008 - 4-2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdWN4R0g0NV84ek0/view?resourcekey=0-h4Di5WLse99L0QNAvlHG4A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdWN4R0g0NV84ek0&resourcekey=0-h4Di5WLse99L0QNAvlHG4A" width="240" alt="1992 - M433 - 434 - P009 - 4-3.jpg"></a><br><sub>1992|25 · 434 - P009 - 4-3</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQWhaQWRvTmVYTFE/view?resourcekey=0-8pdvpEFUPEkqz8erKOqudg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQWhaQWRvTmVYTFE&resourcekey=0-8pdvpEFUPEkqz8erKOqudg" width="240" alt="1992 - M433 - 434 - P010 - 5-1.jpg"></a><br><sub>1992|25 · 434 - P010 - 5-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekdxMXozd3Eycms/view?resourcekey=0-Z6EHKsUdvaM6OrsoFKVLig" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekdxMXozd3Eycms&resourcekey=0-Z6EHKsUdvaM6OrsoFKVLig" width="240" alt="1992 - M433 - 434 - P011 - 5-2.jpg"></a><br><sub>1992|25 · 434 - P011 - 5-2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbDBrSHZnRWtOQU0/view?resourcekey=0-6qA2hWSrtmphN6ZigFcpww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbDBrSHZnRWtOQU0&resourcekey=0-6qA2hWSrtmphN6ZigFcpww" width="240" alt="1992 - M433 - 434 - P012 - 6-1.jpg"></a><br><sub>1992|25 · 434 - P012 - 6-1</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZlRUNHRhZVhDYTg/view?resourcekey=0-H8rv5HK3vJmtwjSvbQJnxw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZlRUNHRhZVhDYTg&resourcekey=0-H8rv5HK3vJmtwjSvbQJnxw" width="240" alt="1992 - M433 - 434 - P013 - 6-2.jpg"></a><br><sub>1992|25 · 434 - P013 - 6-2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSjVSazdVSzlJZHc/view?resourcekey=0-rc79-gn9DYZFeTUDxseV8Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSjVSazdVSzlJZHc&resourcekey=0-rc79-gn9DYZFeTUDxseV8Q" width="240" alt="1992 - M433 - 434 - P014 - 7-1.jpg"></a><br><sub>1992|25 · 434 - P014 - 7-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd3ZvTS0tOXh2X28/view?resourcekey=0-VmtSeoWXZEUgNMfB_4sFIg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd3ZvTS0tOXh2X28&resourcekey=0-VmtSeoWXZEUgNMfB_4sFIg" width="240" alt="1992 - M433 - 434 - P015 - 7-2.jpg"></a><br><sub>1992|25 · 434 - P015 - 7-2</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNzM0VnYyZ2JGQTA/view?resourcekey=0-KCPc5nysBmZDkfJPvUjhdg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNzM0VnYyZ2JGQTA&resourcekey=0-KCPc5nysBmZDkfJPvUjhdg" width="240" alt="1992 - M433 - 434 - P016 - 7-3.jpg"></a><br><sub>1992|25 · 434 - P016 - 7-3</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcE9RZUIzX0FMRXc/view?resourcekey=0-9Hze0tZkVO_Hmxl_PS-DIg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcE9RZUIzX0FMRXc&resourcekey=0-9Hze0tZkVO_Hmxl_PS-DIg" width="240" alt="1992 - M433 - 434 - P017 - 8-1.jpg"></a><br><sub>1992|25 · 434 - P017 - 8-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ1BCRDYyX1B6MFU/view?resourcekey=0-haarzARWx0_lWsQ-4bGl6Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ1BCRDYyX1B6MFU&resourcekey=0-haarzARWx0_lWsQ-4bGl6Q" width="240" alt="1992 - M433 - 434 - Peak Program Meter (2).pdf"></a><br><sub>1992|25 · 434 - Peak Program Meter (2)</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLXg4NlJCRk5RZmM/view?resourcekey=0-yWAjy3TUGK82vAj5G-oXsQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLXg4NlJCRk5RZmM&resourcekey=0-yWAjy3TUGK82vAj5G-oXsQ" width="240" alt="1992 - M433 - 434 - Peak Program Meter.pdf"></a><br><sub>1992|25 · 434 - Peak Program Meter</sub></td></tr>
+</table>
+
+Not on Google Drive yet: `M433-434 - P004 - 3-1(1).jpg`, `M433-434 - P004 - 3-1.jpg`, `M433-434 - P005 - 3-2(1).jpg`, `M433-434 - P005 - 3-2.jpg`
+
+## KiCad
+
+_KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
+
+- [1992 - M433 - 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC.kicad_sch](KICAD/1992%20-%20M433%20-%2014-060-02-001%20-%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC.kicad_sch)
+- [1992 - M433 - 434 - Peak Program Meter (2) p10.kicad_sch](KICAD/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p10.kicad_sch)
+- [1992 - M433 - 434 - Peak Program Meter (2) p18.kicad_sch](KICAD/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p18.kicad_sch)
+- [1992 - M433 - 434 - Peak Program Meter p18.kicad_sch](KICAD/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20p18.kicad_sch)
+- [19xx - 14-060-02-001.kicad_sch](KICAD/19xx%20-%2014-060-02-001.kicad_sch)
+- [M433.kicad_sym](KICAD/M433.kicad_sym)
+
+---
+Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
