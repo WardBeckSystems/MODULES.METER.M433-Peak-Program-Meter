@@ -1,0 +1,101 @@
+{
+ "drawing": "Modules/METER/M433/MANUALS/1992 - M433 - 434 - Peak Program Meter.pdf",
+ "page": 8,
+ "version": 1,
+ "trace": "_traces/4bc6289ea32f64b5-p8.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "8", "pages": "19"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [32.4, 21.8, 331.4, 421.4],
+ "outlines": {
+  "line": {"rings": 37, "straight": {"n": 1771, "mm": 7445.8}, "curved": {"n": 174, "mm": 289.3}},
+  "text": {"rings": 188, "straight": {"n": 1637, "mm": 2031.8}, "curved": {"n": 466, "mm": 745.1}},
+  "tb": {"rings": 56, "straight": {"n": 608, "mm": 1197.3}, "curved": {"n": 102, "mm": 176.5}}
+ },
+ "circles": [
+  {"c": [253.3, 246.5], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [254.1, 92.5], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [82.1, 212.2, 263.4, 329.0], "w": 181.3, "h": 116.9, "from": "ring", "words": ["-12", "-16", "220", "dB"]},
+  {"mm": [89.4, 259.3, 255.6, 321.5], "w": 166.2, "h": 62.2, "from": "ring", "words": ["-12", "-16", "220", "dB"]},
+  {"mm": [83.3, 213.7, 262.1, 252.2], "w": 178.8, "h": 38.4, "from": "ring"},
+  {"mm": [82.7, 57.9, 264.3, 174.9], "w": 181.6, "h": 117.0, "from": "ring", "words": ["18,7 ,", "-16", "-20", "dB", "(WBS"]},
+  {"mm": [90.0, 105.0, 256.3, 167.1], "w": 166.2, "h": 62.1, "from": "ring", "words": ["18,7 ,", "-16", "-20", "dB", "(WBS"]},
+  {"mm": [84.0, 58.9, 263.0, 98.3], "w": 179.0, "h": 39.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [32.4, 412.4, 147.9, 419.5], "text": "WAAD-BECK systems LTD."},
+   {"mm": [146.2, 368.1, 167.1, 375.8], "text": "SCALE"},
+   {"mm": [169.7, 368.1, 198.6, 376.3], "text": "OPTIONS"},
+   {"mm": [117.0, 355.2, 228.2, 362.8], "text": "M433/M43u PEAK PROGRAM METER"},
+   {"mm": [133.2, 302.7, 145.1, 309.6], "text": "-16"},
+   {"mm": [149.0, 304.9, 160.4, 312.5], "text": "-12"},
+   {"mm": [119.2, 299.7, 130.6, 306.6], "text": "220"},
+   {"mm": [167.8, 276.8, 177.5, 283.7], "text": "dB"},
+   {"mm": [155.9, 197.3, 187.2, 205.0], "text": "FIG 6-2"},
+   {"mm": [106.2, 191.1, 141.8, 198.0], "text": "ML33/A OR"},
+   {"mm": [144.7, 191.1, 237.5, 198.0], "text": "ML3L/A ABC West Scale"},
+   {"mm": [191.3, 132.6, 237.3, 159.4], "text": "18,7 ,"},
+   {"mm": [117.7, 146.8, 131.1, 154.5], "text": "-20"},
+   {"mm": [133.9, 151.1, 145.7, 157.6], "text": "-16"},
+   {"mm": [168.4, 126.9, 178.1, 133.4], "text": "dB"},
+   {"mm": [160.6, 112.1, 181.8, 117.3], "text": "(WBS"},
+   {"mm": [155.9, 46.6, 187.4, 54.3], "text": "Fig. 6-3"},
+   {"mm": [105.8, 39.9, 129.5, 46.9], "text": "M433/B"},
+   {"mm": [132.1, 39.9, 167.8, 47.1], "text": "OR M4 34/8"},
+   {"mm": [177.5, 39.9, 236.8, 47.1], "text": "ABC East Scale"},
+   {"mm": [166.5, 21.4, 177.3, 26.7], "text": "4-2"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [25.7, 31.3, 244.1, 428.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK systems LTD.",
+   "SCALE",
+   "OPTIONS",
+   "M433/M43u PEAK PROGRAM METER",
+   "-16",
+   "-12",
+   "220",
+   "dB",
+   "FIG 6-2",
+   "ML33/A OR",
+   "ML3L/A ABC West Scale",
+   "18,7 ,",
+   "-20",
+   "-16",
+   "dB",
+   "(WBS",
+   "Fig. 6-3",
+   "M433/B",
+   "OR M4 34/8",
+   "ABC East Scale"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 32–331 mm across, 22–421 mm up",
+  "- **Outlines:** line 37 rings, 1,771 straight (7,446 mm) / 174 curved (289 mm); text 188 rings, 1,637 straight (2,032 mm) / 466 curved (745 mm); tb 56 rings, 608 straight (1,197 mm) / 102 curved (176 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 3.3 @ (253.3, 246.5), r 3.3 @ (254.1, 92.5)",
+  "- **Closed boxes:** 6; named: -12 -16 220 dB; -12 -16 220 dB; 18,7 , -16 -20 dB (WBS; 18,7 , -16 -20 dB (WBS",
+  "- **Words (OCR):** 35 in 21 lines: WAAD-BECK systems LTD. · SCALE · OPTIONS · M433/M43u PEAK PROGRAM METER · -16 · -12 · 220 · dB · FIG 6-2 · ML33/A OR · ML3L/A ABC West Scale · 18,7 ,",
+  "- **Title block:** (26, 31)–(244, 428) mm: WAAD-BECK systems LTD. · SCALE · OPTIONS · M433/M43u PEAK PROGRAM METER · -16 · -12 · 220 · dB · FIG 6-2 · ML33/A OR · ML3L/A ABC West Scale · 18,7 , · -20 · -16 · dB · (WBS · Fig. 6-3 · M433/B · OR M"
+ ]
+}

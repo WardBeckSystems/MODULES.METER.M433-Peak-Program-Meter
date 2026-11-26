@@ -1,0 +1,92 @@
+{
+ "drawing": "Modules/METER/M433/MANUALS/1992 - M433 - 434 - Peak Program Meter (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/55cf9a0affdd3a6e-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "19"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, 14.2, 301.0, 421.9],
+ "outlines": {
+  "line": {"rings": 224, "straight": {"n": 2245, "mm": 5114.7}, "curved": {"n": 592, "mm": 882.3}},
+  "text": {"rings": 381, "straight": {"n": 2895, "mm": 3154.0}, "curved": {"n": 921, "mm": 1452.1}}
+ },
+ "circles": [{"c": [212.6, 196.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [71.9, 196.0, 74.1, 200.1], "w": 2.2, "h": 4.1, "from": "ring"},
+  {"mm": [214.4, 195.4, 217.4, 198.6], "w": 3.0, "h": 3.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 84,
+  "lines": [
+   {"mm": [26.8, 399.4, 120.5, 405.4], "text": "WAR D-BECK YS TE MS"},
+   {"mm": [111.2, 358.6, 215.9, 363.4], "text": "M4331MiH EAK PROG AM MEIE"},
+   {"mm": [44.5, 339.4, 51.8, 344.2], "text": "RT"},
+   {"mm": [77.3, 339.4, 111.4, 344.2], "text": "ES CR PT IO"},
+   {"mm": [199.3, 339.0, 206.6, 343.8], "text": "Mf"},
+   {"mm": [241.4, 339.0, 267.1, 343.8], "text": "EG PART"},
+   {"mm": [278.5, 339.0, 288.9, 343.8], "text": "MD["},
+   {"mm": [73.0, 325.4, 111.8, 330.9], "text": "Resistor 1/4W"},
+   {"mm": [199.7, 325.4, 218.7, 330.9], "text": "Philips"},
+   {"mm": [35.8, 311.8, 43.2, 319.7], "text": "as"},
+   {"mm": [126.1, 311.8, 133.0, 319.0], "text": "ix"},
+   {"mm": [40.6, 304.9, 46.9, 310.4], "text": "52"},
+   {"mm": [35.8, 291.0, 46.4, 302.8], "text": ".S9"},
+   {"mm": [125.4, 266.4, 129.5, 271.2], "text": "i7"},
+   {"mm": [125.4, 259.5, 136.7, 265.0], "text": "3.9"},
+   {"mm": [35.6, 245.5, 46.2, 257.2], "text": ".60"},
+   {"mm": [40.6, 253.5, 49.2, 259.7], "text": "SO"},
+   {"mm": [126.1, 246.3, 136.2, 253.1], "text": "ux"},
+   {"mm": [40.2, 232.7, 44.9, 238.3], "text": "6l"},
+   {"mm": [40.2, 225.8, 46.9, 231.8], "text": "61"},
+   {"mm": [40.2, 220.6, 46.6, 225.9], "text": "61"},
+   {"mm": [72.5, 213.7, 111.2, 219.3], "text": "Potenti ometer"},
+   {"mm": [125.4, 213.7, 136.7, 219.3], "text": "50K"},
+   {"mm": [199.3, 213.3, 214.0, 218.8], "text": "Piher"},
+   {"mm": [236.0, 213.3, 267.9, 218.8], "text": "PT 10H 50K"},
+   {"mm": [40.2, 207.0, 46.9, 214.7], "text": "ss"},
+   {"mm": [72.5, 207.5, 114.2, 213.0], "text": "Resisto 3.75W"},
+   {"mm": [125.4, 207.5, 134.9, 213.0], "text": "330"},
+   {"mm": [199.3, 207.0, 211.4, 212.6], "text": "Dale"},
+   {"mm": [235.8, 207.0, 264.3, 212.8], "text": "RS-2B 330"},
+   {"mm": [80.5, 193.9, 123.1, 199.6], "text": "ell:a te Citc uit"},
+   {"mm": [35.4, 181.4, 42.7, 186.9], "text": "U3"},
+   {"mm": [288.7, 76.2, 309.0, 85.3], "text": "ca"},
+   {"mm": [266.0, 53.3, 287.8, 64.8], "text": "BS"},
+   {"mm": [35.0, 44.7, 85.3, 50.2], "text": "was reco mmends"},
+   {"mm": [87.9, 44.7, 294.3, 50.2], "text": "the use of replacement P3rts made by the specifi ed manufac turers for"},
+   {"mm": [34.5, 38.2, 160.0, 43.7], "text": "co ntinued pt imu eq uipme nt pe fo ma nce."},
+   {"mm": [243.5, 31.1, 262.1, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.1, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [
+  {"c": [86.6, 317.2], "r": 1.1, "lines": 0},
+  {"c": [206.5, 310.5], "r": 1.0, "lines": 0},
+  {"c": [238.2, 310.4], "r": 1.1, "lines": 0},
+  {"c": [206.5, 303.9], "r": 1.1, "lines": 0},
+  {"c": [206.4, 290.7], "r": 1.1, "lines": 0},
+  {"c": [86.4, 264.8], "r": 1.1, "lines": 0},
+  {"c": [99.7, 179.9], "r": 1.0, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–301 mm across, 14–422 mm up",
+  "- **Outlines:** line 224 rings, 2,245 straight (5,115 mm) / 592 curved (882 mm); text 381 rings, 2,895 straight (3,154 mm) / 921 curved (1,452 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (212.6, 196.9)",
+  "- **Closed boxes:** 2",
+  "- **Dots (junctions):** 7",
+  "- **Words (OCR):** 84 in 39 lines: WAR D-BECK YS TE MS · M4331MiH EAK PROG AM MEIE · RT · ES CR PT IO · Mf · EG PART · MD[ · Resistor 1/4W · Philips · as · ix · 52"
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "drawing": "Modules/METER/M433/MANUALS/1992 - M433 - 434 - Peak Program Meter.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/4bc6289ea32f64b5-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "19"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.6, 19.9, 306.6, 421.4],
+ "outlines": {
+  "line": {"rings": 46, "straight": {"n": 1569, "mm": 7542.2}, "curved": {"n": 165, "mm": 261.9}},
+  "text": {"rings": 173, "straight": {"n": 1453, "mm": 1808.2}, "curved": {"n": 428, "mm": 695.6}},
+  "tb": {"rings": 79, "straight": {"n": 778, "mm": 1378.0}, "curved": {"n": 146, "mm": 244.3}}
+ },
+ "circles": [
+  {"c": [253.2, 242.7], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [254.4, 97.0], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [82.4, 207.9, 263.5, 326.0], "w": 181.0, "h": 118.0, "from": "ring", "words": ["dBm 600 n"]},
+  {"mm": [90.0, 255.0, 255.4, 318.5], "w": 165.4, "h": 63.4, "from": "ring", "words": ["dBm 600 n"]},
+  {"mm": [83.6, 209.2, 261.9, 248.7], "w": 178.3, "h": 39.5, "from": "ring"},
+  {"mm": [83.1, 62.0, 264.5, 179.6], "w": 181.4, "h": 117.7, "from": "ring", "words": ["TEST", "T,7,", "-12", "dB", "WBS"]},
+  {"mm": [90.6, 109.2, 256.7, 172.3], "w": 166.1, "h": 63.0, "from": "ring", "words": ["TEST", "T,7,", "-12", "dB", "WBS"]},
+  {"mm": [84.4, 63.3, 263.4, 103.0], "w": 179.0, "h": 39.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [31.3, 410.2, 145.1, 417.2], "text": "WAAD-BeCk Systems LTD"},
+   {"mm": [145.7, 366.6, 166.9, 373.6], "text": "SCALE"},
+   {"mm": [169.3, 366.0, 197.3, 373.6], "text": "OPTIONS"},
+   {"mm": [115.9, 354.1, 150.1, 360.6], "text": "M433 ML3L"},
+   {"mm": [152.4, 353.2, 227.1, 360.9], "text": "PEAK PROGRAM METER"},
+   {"mm": [157.6, 273.8, 195.8, 280.7], "text": "dBm 600 n"},
+   {"mm": [156.5, 195.4, 186.3, 201.9], "text": "FiG 6-4"},
+   {"mm": [118.1, 188.3, 153.7, 195.9], "text": "M433/C OR"},
+   {"mm": [156.5, 188.3, 224.1, 195.9], "text": "ML34/C CBC Scale"},
+   {"mm": [167.3, 160.8, 183.9, 167.3], "text": "TEST"},
+   {"mm": [120.3, 148.5, 131.1, 155.0], "text": "-12"},
+   {"mm": [199.7, 134.9, 233.8, 155.6], "text": "T,7,"},
+   {"mm": [168.8, 127.8, 177.9, 134.3], "text": "dB"},
+   {"mm": [164.9, 115.7, 183.3, 121.0], "text": "WBS"},
+   {"mm": [155.4, 51.4, 186.1, 57.9], "text": "FiG 6-4"},
+   {"mm": [114.9, 44.3, 138.6, 51.2], "text": "ML33/0"},
+   {"mm": [140.8, 44.3, 226.7, 51.4], "text": "OR M434/0 TEST SCALE"},
+   {"mm": [166.0, 19.2, 176.8, 24.0], "text": "4-3"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [24.6, 35.6, 233.3, 425.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BeCk Systems LTD",
+   "SCALE",
+   "OPTIONS",
+   "M433 ML3L",
+   "PEAK PROGRAM METER",
+   "dBm 600 n",
+   "FiG 6-4",
+   "M433/C OR",
+   "ML34/C CBC Scale",
+   "TEST",
+   "-12",
+   "T,7,",
+   "dB",
+   "WBS",
+   "FiG 6-4",
+   "ML33/0",
+   "OR M434/0 TEST SCALE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–307 mm across, 20–421 mm up",
+  "- **Outlines:** line 46 rings, 1,569 straight (7,542 mm) / 165 curved (262 mm); text 173 rings, 1,453 straight (1,808 mm) / 428 curved (696 mm); tb 79 rings, 778 straight (1,378 mm) / 146 curved (244 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 3.4 @ (253.2, 242.7), r 3.3 @ (254.4, 97.0)",
+  "- **Closed boxes:** 6; named: dBm 600 n; dBm 600 n; TEST T,7, -12 dB WBS; TEST T,7, -12 dB WBS",
+  "- **Words (OCR):** 29 in 18 lines: WAAD-BeCk Systems LTD · SCALE · OPTIONS · M433 ML3L · PEAK PROGRAM METER · dBm 600 n · FiG 6-4 · M433/C OR · ML34/C CBC Scale · TEST · -12 · T,7,",
+  "- **Title block:** (25, 36)–(233, 426) mm: WAAD-BeCk Systems LTD · SCALE · OPTIONS · M433 ML3L · PEAK PROGRAM METER · dBm 600 n · FiG 6-4 · M433/C OR · ML34/C CBC Scale · TEST · -12 · T,7, · dB · WBS · FiG 6-4 · ML33/0 · OR M434/0 TEST SCALE"
+ ]
+}

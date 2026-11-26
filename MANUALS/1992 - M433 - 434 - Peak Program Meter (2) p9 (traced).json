@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/METER/M433/MANUALS/1992 - M433 - 434 - Peak Program Meter (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/55cf9a0affdd3a6e-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "19"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.6, 19.9, 306.6, 421.4],
+ "outlines": {
+  "line": {"rings": 130, "straight": {"n": 2348, "mm": 8850.0}, "curved": {"n": 344, "mm": 552.8}},
+  "text": {"rings": 168, "straight": {"n": 1473, "mm": 1872.5}, "curved": {"n": 400, "mm": 656.3}}
+ },
+ "circles": [
+  {"c": [172.5, 225.6], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [173.4, 79.6], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [92.4, 96.6], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [253.2, 242.7], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [254.4, 97.0], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [82.4, 207.9, 263.5, 326.0], "w": 181.0, "h": 118.0, "from": "ring", "words": ["d8m"]},
+  {"mm": [90.0, 255.0, 255.4, 318.5], "w": 165.4, "h": 63.4, "from": "ring", "words": ["d8m"]},
+  {"mm": [83.6, 209.2, 261.9, 248.7], "w": 178.3, "h": 39.5, "from": "ring"},
+  {"mm": [83.1, 62.0, 264.5, 179.6], "w": 181.4, "h": 117.7, "from": "ring", "words": ["TEST", "I'l,"]},
+  {"mm": [90.6, 109.2, 256.7, 172.3], "w": 166.1, "h": 63.0, "from": "ring", "words": ["TEST", "I'l,"]},
+  {"mm": [84.4, 63.3, 263.4, 103.0], "w": 179.0, "h": 39.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [33.2, 409.8, 147.5, 415.5], "text": "WA~ ·I!IECK SYS EMS TD."},
+   {"mm": [117.9, 353.4, 226.5, 358.5], "text": "/101433//10104 PEAk PROGRA/Iol METER"},
+   {"mm": [158.9, 273.3, 172.1, 278.6], "text": "d8m"},
+   {"mm": [162.4, 195.6, 168.2, 200.6], "text": "IG"},
+   {"mm": [119.4, 188.9, 135.6, 194.0], "text": "MU3/"},
+   {"mm": [145.5, 188.9, 171.2, 194.0], "text": "OR M434"},
+   {"mm": [190.9, 188.9, 221.7, 194.0], "text": "CBe Sca le"},
+   {"mm": [168.4, 160.6, 183.5, 165.7], "text": "TEST"},
+   {"mm": [188.9, 138.2, 214.8, 155.2], "text": "I'l,"},
+   {"mm": [288.7, 76.2, 309.0, 85.3], "text": "ca"},
+   {"mm": [266.0, 53.3, 287.8, 64.8], "text": "BS"},
+   {"mm": [115.5, 44.7, 132.6, 49.7], "text": "M1r.33/"},
+   {"mm": [141.6, 44.7, 170.6, 49.7], "text": "OR M431r./"},
+   {"mm": [187.4, 44.7, 217.2, 49.7], "text": "TES SCA"},
+   {"mm": [243.5, 31.1, 262.1, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.1, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–307 mm across, 20–421 mm up",
+  "- **Outlines:** line 130 rings, 2,348 straight (8,850 mm) / 344 curved (553 mm); text 168 rings, 1,473 straight (1,872 mm) / 400 curved (656 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 5.5 @ (172.5, 225.6), r 5.5 @ (173.4, 79.6), r 3.4 @ (92.4, 96.6), r 3.4 @ (253.2, 242.7)",
+  "- **Closed boxes:** 6; named: d8m; d8m; TEST I'l,; TEST I'l,",
+  "- **Words (OCR):** 28 in 16 lines: WA~ ·I!IECK SYS EMS TD. · /101433//10104 PEAk PROGRA/Iol METER · d8m · IG · MU3/ · OR M434 · CBe Sca le · TEST · I'l, · ca · BS · M1r.33/"
+ ]
+}

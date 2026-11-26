@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/METER/M433/MANUALS/1992 - M433 - 434 - Peak Program Meter (2).pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/55cf9a0affdd3a6e-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "19"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [29.6, 21.6, 328.4, 417.7],
+ "outlines": {
+  "line": {"rings": 224, "straight": {"n": 3497, "mm": 7657.1}, "curved": {"n": 657, "mm": 1067.2}},
+  "text": {"rings": 13, "straight": {"n": 91, "mm": 107.5}, "curved": {"n": 24, "mm": 43.1}}
+ },
+ "circles": [{"c": [186.5, 371.0], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [229.7, 251.1, 234.0, 254.3], "w": 4.3, "h": 3.2, "from": "ring"}],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [31.1, 411.3, 49.7, 417.0], "text": "WA~"},
+   {"mm": [91.1, 411.7, 111.2, 417.0], "text": "YSTE"},
+   {"mm": [128.9, 411.7, 142.9, 417.2], "text": "LTD"},
+   {"mm": [288.7, 76.2, 309.0, 85.3], "text": "ca"},
+   {"mm": [266.0, 53.3, 287.8, 64.8], "text": "BS"},
+   {"mm": [243.5, 31.1, 262.1, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.1, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 30–328 mm across, 22–418 mm up",
+  "- **Outlines:** line 224 rings, 3,497 straight (7,657 mm) / 657 curved (1,067 mm); text 13 rings, 91 straight (108 mm) / 24 curved (43.1 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (186.5, 371.0)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 7 in 7 lines: WA~ · YSTE · LTD · ca · BS · tp · ht"
+ ]
+}

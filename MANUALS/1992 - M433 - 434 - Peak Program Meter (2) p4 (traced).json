@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/METER/M433/MANUALS/1992 - M433 - 434 - Peak Program Meter (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/55cf9a0affdd3a6e-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "19"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.0, 20.7, 302.7, 422.1],
+ "outlines": {
+  "line": {"rings": 223, "straight": {"n": 3337, "mm": 7178.9}, "curved": {"n": 621, "mm": 1002.7}},
+  "text": {"rings": 308, "straight": {"n": 2385, "mm": 2600.7}, "curved": {"n": 743, "mm": 1159.9}}
+ },
+ "circles": [{"c": [184.8, 370.5], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [63.5, 411.7, 67.8, 416.5], "w": 4.4, "h": 4.7, "from": "ring"},
+  {"mm": [242.2, 295.8, 245.0, 298.8], "w": 2.8, "h": 3.0, "from": "ring", "words": ["is"]}
+ ],
+ "text": {
+  "words": 69,
+  "lines": [
+   {"mm": [113.1, 353.9, 222.6, 359.1], "text": "M433 /M434 PEAK PRO GRAM METER"},
+   {"mm": [85.3, 327.7, 109.9, 333.0], "text": "Mountin"},
+   {"mm": [63.0, 314.4, 69.5, 319.6], "text": "Th"},
+   {"mm": [82.9, 314.4, 114.2, 319.6], "text": "M433/M4 34"},
+   {"mm": [123.1, 313.9, 149.8, 320.4], "text": "re qu i~s"},
+   {"mm": [181.8, 314.4, 197.1, 319.4], "text": "ima te"},
+   {"mm": [220.2, 314.4, 247.0, 319.4], "text": "25 inch"},
+   {"mm": [274.8, 314.4, 285.2, 319.4], "text": "dep"},
+   {"mm": [63.0, 307.7, 84.6, 312.9], "text": "beh ind"},
+   {"mm": [108.4, 307.7, 120.5, 312.9], "text": "an el"},
+   {"mm": [158.9, 307.7, 173.8, 312.9], "text": "in he"},
+   {"mm": [184.2, 307.7, 202.7, 312.9], "text": "Tn ro"},
+   {"mm": [218.5, 307.7, 245.9, 312.9], "text": "Th cu to"},
+   {"mm": [257.6, 307.7, 287.4, 312.9], "text": "dimen ion"},
+   {"mm": [78.8, 301.4, 118.1, 306.7], "text": "oull ed Tn"},
+   {"mm": [132.6, 301.4, 142.1, 306.7], "text": "ure"},
+   {"mm": [163.7, 301.4, 170.8, 306.7], "text": "for"},
+   {"mm": [193.7, 301.4, 207.5, 306.7], "text": "M433"},
+   {"mm": [249.6, 301.4, 255.4, 306.7], "text": "gu"},
+   {"mm": [269.0, 301.4, 290.0, 306.7], "text": "5_2 for"},
+   {"mm": [78.2, 294.7, 131.1, 300.0], "text": "M434 NOle Ih al"},
+   {"mm": [151.1, 294.7, 171.4, 300.0], "text": "cen te rl"},
+   {"mm": [190.9, 294.7, 195.6, 300.0], "text": "or"},
+   {"mm": [223.2, 294.7, 227.8, 300.0], "text": "to"},
+   {"mm": [240.3, 294.7, 287.6, 300.0], "text": "is ot iden ica"},
+   {"mm": [63.5, 288.0, 71.2, 293.3], "text": "wil"},
+   {"mm": [81.6, 288.0, 86.1, 293.3], "text": "th"},
+   {"mm": [131.7, 288.0, 159.8, 293.3], "text": "he met er"},
+   {"mm": [157.8, 91.5, 163.9, 96.8], "text": "IG"},
+   {"mm": [123.7, 84.8, 131.1, 89.9], "text": "1014"},
+   {"mm": [142.1, 84.8, 165.8, 89.9], "text": "Mo un in"},
+   {"mm": [175.5, 84.8, 206.8, 89.9], "text": "Dimen sion"},
+   {"mm": [288.7, 76.2, 309.0, 85.3], "text": "ca"},
+   {"mm": [266.0, 53.3, 287.8, 64.8], "text": "BS"},
+   {"mm": [243.5, 31.1, 262.1, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.1, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [202.3, 310.4], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–303 mm across, 21–422 mm up",
+  "- **Outlines:** line 223 rings, 3,337 straight (7,179 mm) / 621 curved (1,003 mm); text 308 rings, 2,385 straight (2,601 mm) / 743 curved (1,160 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (184.8, 370.5)",
+  "- **Closed boxes:** 2; named: is",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 69 in 36 lines: M433 /M434 PEAK PRO GRAM METER · Mountin · Th · M433/M4 34 · re qu i~s · ima te · 25 inch · dep · beh ind · an el · in he · Tn ro"
+ ]
+}

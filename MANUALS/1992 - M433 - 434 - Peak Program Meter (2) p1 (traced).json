@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/METER/M433/MANUALS/1992 - M433 - 434 - Peak Program Meter (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/55cf9a0affdd3a6e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "19"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.4, 16.2, 309.2, 421.4],
+ "outlines": {
+  "line": {"rings": 108, "straight": {"n": 1497, "mm": 4147.1}, "curved": {"n": 305, "mm": 479.0}},
+  "text": {"rings": 206, "straight": {"n": 1498, "mm": 1941.3}, "curved": {"n": 319, "mm": 555.8}}
+ },
+ "circles": [{"c": [157.1, 218.3], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [43.2, 387.5, 282.4, 404.3], "text": "(VVBS] 841 PROGRESS AVE NUE SCAR BOROUGH ONTAFl'O Ml &,X4"},
+   {"mm": [119.2, 398.3, 136.2, 405.5], "text": "WA"},
+   {"mm": [167.5, 398.3, 244.8, 405.5], "text": "ECK SYSTEM"},
+   {"mm": [259.7, 398.3, 279.4, 405.5], "text": "LTD"},
+   {"mm": [119.0, 386.9, 130.0, 391.0], "text": "FAx:"},
+   {"mm": [131.7, 386.5, 168.4, 391.7], "text": "\"'81438-3B6~"},
+   {"mm": [212.2, 386.9, 242.7, 391.0], "text": "TELEPHONE"},
+   {"mm": [261.2, 386.5, 273.1, 391.7], "text": "38.e"},
+   {"mm": [144.0, 231.0, 189.1, 238.4], "text": "M433{M434"},
+   {"mm": [118.3, 213.3, 218.7, 220.7], "text": "PEAK PROGRAM METER"},
+   {"mm": [288.7, 76.2, 309.0, 85.3], "text": "ca"},
+   {"mm": [201.9, 53.3, 287.8, 66.7], "text": "\\fd NlI,H IUllE_ BS"},
+   {"mm": [200.8, 48.6, 235.3, 54.1], "text": "dp,i/9,1991"},
+   {"mm": [243.5, 31.1, 262.1, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.1, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–309 mm across, 16–421 mm up",
+  "- **Outlines:** line 108 rings, 1,497 straight (4,147 mm) / 305 curved (479 mm); text 206 rings, 1,498 straight (1,941 mm) / 319 curved (556 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.2 @ (157.1, 218.3)",
+  "- **Words (OCR):** 30 in 15 lines: (VVBS] 841 PROGRESS AVE NUE SCAR BOROUGH ONTAFl'O Ml &,X4 · WA · ECK SYSTEM · LTD · FAx: · \"'81438-3B6~ · TELEPHONE · 38.e · M433{M434 · PEAK PROGRAM METER · ca · \\fd NlI,H IUllE_ BS"
+ ]
+}
