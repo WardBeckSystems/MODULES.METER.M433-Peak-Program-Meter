@@ -23,7 +23,7 @@ Wiki page: [M433](../../../../PAGES/M433.md)
 - **Title block:** (363, 25)–(432, 40) mm: WARD-BECK · SYSTEMS
 - **Wiring (first pass):** 78 connected wire groups from 557 runs; labelled ends: 192 mm → LM3I7LZ, +22v, 2N3904, Reo; 188 mm → 47k, RJ6, LFSSJBN, R6}; 167 mm → 1N4148, RJ6, U1B, LFSSJBN; 152 mm → 10/35, R58, 3k9, R61; 126 mm → 15k, Rv, 270k, 4K}
 
-Every curve, box, word and wire group: [1992 - M433 - 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1992%20-%20M433%20-%2014-060-02-001%20-%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20(traced).json) (the CAD file: `1992 - M433 - 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1992%20-%20M433%20-%2014-060-02-001%20-%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1992 - M433 - 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

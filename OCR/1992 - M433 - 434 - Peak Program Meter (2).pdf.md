@@ -22,7 +22,7 @@ Wiki page: [M433](../../../../PAGES/M433.md)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 3.2 @ (157.1, 218.3)
 - **Words (OCR):** 30 in 15 lines: (VVBS] 841 PROGRESS AVE NUE SCAR BOROUGH ONTAFl'O Ml &,X4 · WA · ECK SYSTEM · LTD · FAx: · "'81438-3B6~ · TELEPHONE · 38.e · M433{M434 · PEAK PROGRAM METER · ca · \fd NlI,H IUllE_ BS
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p1 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p1%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p1 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Dots (junctions):** 1
 - **Words (OCR):** 61 in 54 lines: WcAC BFCK SystENS · TECHNICALDATA · DUUYLLUFAREKUGKUUMLE · Input Sonsluvic: · Rourcc · ~44Au (rl Aeo · uhuncn) · mnat · -OAS Kiween sisd} · Ereduenet · Reiconio; · 7-0
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p2 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p2%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p2 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -45,7 +45,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Dots (junctions):** 4
 - **Words (OCR):** 247 in 122 lines: M433 M43 PEAK PROGRA METER · Th M433 M434 eak Pr-ogr · Me Ier · be en · es · to OPer"l · om ly wi · Ih · ic io · fo rth · th · Br it
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p3 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p3%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p3 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Dots (junctions):** 1
 - **Words (OCR):** 69 in 36 lines: M433 /M434 PEAK PRO GRAM METER · Mountin · Th · M433/M4 34 · re qu i~s · ima te · 25 inch · dep · beh ind · an el · in he · Tn ro
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p4 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p4%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p4 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Closed boxes:** 1
 - **Words (OCR):** 7 in 7 lines: WA~ · YSTE · LTD · ca · BS · tp · ht
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p5 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p5%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p5 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Dots (junctions):** 1
 - **Words (OCR):** 98 in 49 lines: WAR · BE CK YaTEM8 LTO · NSTALL · IO · M4 33/M4 34 PEA · PROGR · ME ER · Ext ern al Connect on · M4 33/M434 · right · le · inch cen er) 10
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p6 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p6%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p6 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Closed boxes:** 3
 - **Words (OCR):** 95 in 51 lines: WARD · ECK SYS EMS · M4]]/M434 PE Al< PI'l:OGI'l:AM ME TEI'l: · he M4]3 /M4]4 Pe ak Program Met · are · bl · wi · nu mb · sca · ic · sh ou · sp ec
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p7 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p7%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p7 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -102,7 +102,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Closed boxes:** 7; named: 16 *12; 16 *12; 18 12 1I'/,; 18 12 1I'/,
 - **Words (OCR):** 30 in 18 lines: M433! M4J./l PEAK PROGRAM METE · 16 *12 · FIG 6-2 · M433 · OR M434!A · ABC · Sca · 18 12 · 1I'/, · ca · BS · IG 6_J
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p8 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p8%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p8 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Closed boxes:** 6; named: d8m; d8m; TEST I'l,; TEST I'l,
 - **Words (OCR):** 28 in 16 lines: WA~ ·I!IECK SYS EMS TD. · /101433//10104 PEAk PROGRA/Iol METER · d8m · IG · MU3/ · OR M434 · CBe Sca le · TEST · I'l, · ca · BS · M1r.33/
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p9 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p9%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p9 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -126,7 +126,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Words (OCR):** 370 in 201 lines: ARO· BE CK · YS TE MS TO · CIRCUIT DESCRIPT ION · "1433 · 434 PEAK · ROGRAM METER · Re fe · to schem...tlc 614_060_02_001) · Th · in om · er · ce
 - **Wiring (first pass):** 4 connected wire groups from 118 runs; labelled ends: 110 mm → "1433, METER; 72 mm → CIRCUIT, ION
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p10 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p10%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p10 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 1.8 @ (197.5, 295.5), r 1.8 @ (155.0, 282.2), r 1.7 @ (203.5, 315.2)
 - **Words (OCR):** 106 in 41 lines: WAR · CK eVe T!!",..e LT · IRCU · DESCRIP ION · M433 jM434 PEAK ROGRAM METER · The SA14_06 · quires 24 to 35V DC Th · vo tage 15 egu te · down · to · 22V DC by regu to · U4
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p11 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p11%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p11 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Circles and arcs:** 8 circles, 0 arcs; largest r 1.7 @ (131.3, 297.2), r 1.7 @ (191.1, 257.7), r 1.7 @ (108.6, 211.9), r 1.7 @ (284.5, 304.1)
 - **Words (OCR):** 358 in 162 lines: WARD-B EC · SET_UP PROCEOURE · M433 /M434 PEAK PROGRA METER · The M433/M434 PPM' · tory · ali bra te · and nor mally · not · ec al lbr at lon · Th · il it · tr
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p12 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p12%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p12 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Circles and arcs:** 6 circles, 0 arcs; largest r 1.7 @ (240.2, 305.7), r 1.7 @ (193.6, 292.4), r 1.7 @ (170.2, 318.7), r 1.7 @ (109.4, 298.8)
 - **Words (OCR):** 97 in 41 lines: WA · 8ECK · YSTE · LTD · SET -UP PROCEDURE · 1014]]/101434 PEA PROGRAM METE · Incr........ · le ve 10 .12 dBm Ad · Sel · COIHI"OI R28 CW 10 · se the · mele<"
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p13 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p13%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p13 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Words (OCR):** 156 in 85 lines: WAR -BECK SYSTEMS TD. · U/M4 J4 PE · PRO RAM ETE · PARI · PE · PT ION · MF · MEG PARI NUMBER · PPM Aml'>lifi er · MeIer Movemenl · o.M433 · Bach.
 - **Title block:** (49, 392)–(130, 416) mm: WAR -BECK SYSTEMS TD.
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p14 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p14%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p14 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -179,7 +179,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Words (OCR):** 81 in 65 lines: WARD -BECK SYSTEMS LTD · M4U1M4J4 · Ji RO RAM METER · PART · pESC · PTlON · MEG · fG · PARI NJJMBE · ntt · Resistor · 1'lb9K 09
 - **Title block:** (24, 394)–(130, 417) mm: WARD -BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p15 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p15%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p15 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Dots (junctions):** 7
 - **Words (OCR):** 84 in 39 lines: WAR D-BECK YS TE MS · M4331MiH EAK PROG AM MEIE · RT · ES CR PT IO · Mf · EG PART · MD[ · Resistor 1/4W · Philips · as · ix · 52
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p16 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p16%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p16 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -202,7 +202,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Closed boxes:** 12; named: YSTEMS
 - **Words (OCR):** 33 in 24 lines: WAR · ECK YSTEMS · CONNEC TOR LAYOUT · SUPP · VOLTAGE · TYPICAL MATIN · CO NNEC TOR · BERG · 6581 01 · Mini · Hou · ERG
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p17 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p17%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p17 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -216,7 +216,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Title block:** (363, 25)–(432, 38) mm: lvvEls] WARD-BECK SYSTEMS
 - **Wiring (first pass):** 71 connected wire groups from 626 runs; labelled ends: 245 mm → R60, 11K, 10/35, 240; 181 mm → 47K, R62, R36; 167 mm → N4, R36; 150 mm → 10/35, C6, R6, 12K; 131 mm → 15K, R3, R5, 27
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p18 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p18%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p18 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -227,7 +227,7 @@ Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (
 - **Closed boxes:** 13; named: ~OK Rlo ~57 -HRll i5K iKss iii RI Ii R9 
 - **Words (OCR):** 158 in 99 lines: OOOU 8J 0000 · 00 · 000 · 000 · 00 · <Jl · rrt · <Jl · CD · CD · CD · CD
 
-Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p19 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p19%20(traced).json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - M433 - 434 - Peak Program Meter (2) p19 (traced).json](../MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1992 - M433 - 434 - Peak Program Meter (2) p19 (traced).dxf`).
 
 ## Full text
 
