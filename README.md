@@ -1,17 +1,17 @@
-# M433 · Meter
+# M433 Peak Program Meter · Meter
 
 Ward-Beck Systems M433, 1992|25. Wiki page: [M433 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M433.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 12 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 137 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 13 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 134 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 22 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -201,8 +201,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLXg4NlJCRk5RZmM/view?resourcekey=0-yWAjy3TUGK82vAj5G-oXsQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLXg4NlJCRk5RZmM&resourcekey=0-yWAjy3TUGK82vAj5G-oXsQ" width="240" alt="1992 - M433 - 434 - Peak Program Meter.pdf"></a><br><sub>1992|25 · 434 - Peak Program Meter</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M433-434 - P004 - 3-1(1).jpg`, `M433-434 - P004 - 3-1.jpg`, `M433-434 - P005 - 3-2(1).jpg`, `M433-434 - P005 - 3-2.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -213,6 +211,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1992 - M433 - 434 - Peak Program Meter p18.kicad_sch](KICAD/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20p18.kicad_sch)
 - [19xx - 14-060-02-001.kicad_sch](KICAD/19xx%20-%2014-060-02-001.kicad_sch)
 - [M433.kicad_sym](KICAD/M433.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
