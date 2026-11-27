@@ -1,0 +1,243 @@
+{
+ "module": "M433",
+ "title": "M433LM434PEAKPROGRAMMETER",
+ "source": {
+  "file": "MANUALS/1992 - M433 - 434 - P002 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "+8, +14 dBu (ref. 600 ohm source). 0,+4, +8,+14 dBu (ref. 150 ohm source). Strapable to within +/-0.25 dB between steps",
+   "quantities": [
+    {
+     "value": 14,
+     "unit": "dBu"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 14,
+     "unit": "dBu"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    },
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.3 dB from 30 Hz to 15 kHz:",
+   "quantities": [
+    {
+     "value": 0.3,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "40 dB below reference ('4' on BBC scale, Meter Scale [)",
+   "quantities": [
+    {
+     "value": 40,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or 450 ohms_ balanced /unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 450,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Greater than 2SK."
+  },
+  {
+   "name": "Maximum input",
+   "key": "maximum_input",
+   "text": "+24 dBu.",
+   "quantities": [
+    {
+     "value": 24,
+     "unit": "dBu"
+    }
+   ]
+  },
+  {
+   "name": "Attack time",
+   "key": "attack_time",
+   "text": "(measured at kHz). Burst Duration (msec) Steady State 100 Instrument Reading (in dB relative to mark 6') +/-0.5 dB 25+/0.5 dB +/-0.75 dB -9 +/-1.0 dB",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 0.5,
+     "unit": "dB"
+    },
+    {
+     "value": 0.75,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Delay time",
+   "key": "delay_time",
+   "text": "2.5 [0 3.2 seconds from mark 7' to mark (measured at kHz).",
+   "quantities": [
+    {
+     "value": 3.2,
+     "unit": "seconds"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+24 to 28 volts regulated or unregulated: 22 mA nominal. 100 mA nominal if LED illumination",
+   "quantities": [
+    {
+     "from": 24,
+     "to": 28,
+     "unit": "volts"
+    },
+    {
+     "value": 22,
+     "unit": "mA"
+    },
+    {
+     "value": 100,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "Dimensions: to 50 degrees Celsius M434 4.5\" wide 2.9\" high 2.75\" deep_ (114 mm 74 mm X 70 mm) M433 4,0\" widc 2.7\" high 2.75' dcep (102 mm x 69 mm x 70 mm) SA14-060 (Amplifier card only) 4.0\" wide 2.6\" high x 0.6\" deep: (102 mm * 66 mm x 5 mm)",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 4.5,
+     "unit": "\""
+    },
+    {
+     "value": 2.9,
+     "unit": "\""
+    },
+    {
+     "value": 2.75,
+     "unit": "\""
+    },
+    {
+     "value": 114,
+     "unit": "mm"
+    },
+    {
+     "value": 74,
+     "unit": "mm"
+    },
+    {
+     "value": 70,
+     "unit": "mm"
+    },
+    {
+     "value": 0,
+     "unit": "\""
+    },
+    {
+     "value": 2.7,
+     "unit": "\""
+    },
+    {
+     "value": 102,
+     "unit": "mm"
+    },
+    {
+     "value": 69,
+     "unit": "mm"
+    },
+    {
+     "value": 70,
+     "unit": "mm"
+    },
+    {
+     "value": 4,
+     "unit": "\""
+    },
+    {
+     "value": 2.6,
+     "unit": "\""
+    },
+    {
+     "value": 0.6,
+     "unit": "\""
+    },
+    {
+     "value": 102,
+     "unit": "mm"
+    },
+    {
+     "value": 66,
+     "unit": "mm"
+    },
+    {
+     "value": 5,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "M434 M433 SAI4-060 0.7 Ib. (320g). 0.66 Ib. (300g). (Amplifier card only) 0.1 Ib. (41g)."
+  }
+ ]
+}

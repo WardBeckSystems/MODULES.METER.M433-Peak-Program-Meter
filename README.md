@@ -13,6 +13,164 @@ Ward-Beck Systems M433, 1992|25. Wiki page: [M433 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1992 - M433 - 434 - P002 - 1-1.jpg](MANUALS/1992%20-%20M433%20-%20434%20-%20P002%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivity** | +8, +14 dBu (ref. 600 ohm source). 0,+4, +8,+14 dBu (ref. 150 ohm source). Strapable to within +/-0.25 dB between steps |
+| **Frequency response** | +/-0.3 dB from 30 Hz to 15 kHz: |
+| **Noise** | 40 dB below reference ('4' on BBC scale, Meter Scale [) |
+| **Source impedance** | 600 ohms or 450 ohms_ balanced /unbalanced |
+| **Input impedance** | Greater than 2SK. |
+| **Maximum input** | +24 dBu. |
+| **Attack time** | (measured at kHz). Burst Duration (msec) Steady State 100 Instrument Reading (in dB relative to mark 6') +/-0.5 dB 25+/0.5 dB +/-0.75 dB -9 +/-1.0 dB |
+| **Delay time** | 2.5 [0 3.2 seconds from mark 7' to mark (measured at kHz). |
+| **Power requirements** | +24 to 28 volts regulated or unregulated: 22 mA nominal. 100 mA nominal if LED illumination |
+| **Ambient temperature** | Dimensions: to 50 degrees Celsius M434 4.5&quot; wide 2.9&quot; high 2.75&quot; deep_ (114 mm 74 mm X 70 mm) M433 4,0&quot; widc 2.7&quot; high 2.75' dcep (102 mm x 69 mm x 70 mm) SA14-060 (Amplifier card only) 4.0&quot; wide 2.6&quot; high x 0.6&quot; deep: (102 mm * 66 mm x 5 mm) |
+| **Weight** | M434 M433 SAI4-060 0.7 Ib. (320g). 0.66 Ib. (300g). (Amplifier card only) 0.1 Ib. (41g). |
+
+## Circuit description
+
+From [1992 - M433 - 434 - Peak Program Meter (2).pdf](MANUALS/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2).pdf) pages 10-15 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**&quot;1433 /&quot;1 434 PEAK PROGRAM METER**
+
+(Re fe.. to schem...tlc 614_060_02_001)
+
+The incoming b era n ce c audios i g n a l is e u e e vet e e by II loss n., l work consist ing o f R3,R 4 and shun I..esta te.. s Fl6 Ih rough R12. The shun l loss r e SiS lO&quot; iss elected b y sens i lill i t y Sl.....p sW l, This St&quot;ll P de te..mi n e s th., signal le &quot;,,1 &quot; p plied top..e&quot; mp lif le r Ul_A &quot; n d l h.,...... fo..e c lll ib&quot;&quot; les th., &quot; mp l ifie.. for &quot; &quot;.. to us input op e&quot;&quot;ling I.,,, e ls &quot; n d Impeda n c.,s. P..ec is ion..e sis lo&quot; s R6 to R12, ins e.. res with s Wl, p..o &quot; ide th., shunt leg of this n etwo.. k. tn ese...,sIS to.. S we..., se lec t., d 10 produce... sig n&quot; i a tl enu &quot;tion w l lh in +/ _ 0.2 5 d B of these lec led sen sit ill il y.
+
+The sign,, 1 which i s...mpli f ied and b uffe...,d b y U I-A i sled to a p..ecislo n full wa&quot;e..ec tlfle.. ci r&lt;:u il. This..ec tl lie.. c r..cult conSistS of U2 &quot; n d Its a SSOCI&quot; ted corn ponen t s.
+
+The..e s ul ting p..ecrstcn..ec t ifi e d lIoll ag., d.. i lle s &quot; b..e a k -po int amp li_ fie.. Ul _B I/ ia l h., Ih..es hold cont..ol R22. The g... in oft his e mplifl e.. is &quot;..... ied such as 10 &quot; p pro x ima tea log..... ithm icc onl/ e.. s ion of l h e.. ec t lfi e d l/ol l&quot; g e. This is a c hie &quot;ed b y h &quot;' lI lng the ll mp li fie &quot; g&quot;in IIll &quot;y &quot; cco.. ding t o l hell mp l i lu de oft hell p plied inp ul s)g n ll l lIo l t &quot; ge. B..e...k l r-a n s i,a o.. s 01 10 06 e Ion g w i l h the i....e spec li&quot;e.,mi lle.. &quot; n d col lec to.....,s is to.. s ll &quot;e s wit c h., d shunts &quot; c.. o s s th., r e eee ecx.. e siS lo.. R36. T.. i m cc n t..ol s R23 10 R28 (SET 2 10 SET 7) independ.,n t ly se l Ih e l u.. n -on lIo lt...g e fo.. e&quot; c h o f these b..e&quot;k t..a ns iS lO&quot; S.
+
+The OUlpU I o f UlB i s buff e..e d b y U3_A. The ll llll Ck and dec...y ch&quot;..e e te.. l s tlc soft h e PPM mel e....... e e et e..m in ed bye et etc..c ap aci lo.. n e lw or k R51, R54, C4 lliong with l h e mere.. ball i slic s. These e e..a mt!!le.. s &quot;..e s e l fO&quot; lh in St&quot; nd&quot; r d *Bs4297 end eBe De&quot; elopmen l Re po.. t,+'6 0 4 1.
+
+U3_B p..o&quot; ides theme te rd.. i&quot;., Cu.... en l l hro ugh c u....e n l s o u r-ce &quot; e sI SIO&quot; R56. This o u l Put appe &quot;......1 lh e)n leg..,, 1 mete rmounl lng p &quot;d &quot; n d &quot; t co nnec lO.. pin 3. Th., con nec to.. terminal Se&quot;&quot;e&quot; &quot;&quot; the mel e&quot; con nec l - Ion point when II Is n ec e s s e..y 10 &quot;emO le Ih e PPM mete.. f..om the
+
+s A14-060 &quot; m p ll fie &quot; llssembly.
+
+p s.
+
+WAR DB!! CK eVe T!!&quot;,..e LTD,
+
+M433 jM434 PEAK PROGRAM METER
+
+The SA14_06 0 requires 24 to 35V DC. This voltage 15 r egu l&quot; ted down to +22V DC by regu l&quot; tor U4. Resistors R57 10 R59 5101 U4' s out pul volt &quot;ge while c&quot;paci tors C5 and C6 provide powers u p ply decou p l ing. Diode CR7 protects against Inadvertent voltage rev e r sal, while U4 cont&quot;l n sin te gr,,1 cir&lt;:ui l ry 10 protect &quot; g &quot; ins t short circuits &quot;nd ove rvo l t&quot;ge. The half voltage point forth e 5A14-060 is 5101 b)/ decouplin g l r &quot; n s ist o r 08.
+
+p s.
+
+**SET_UP PROCEOURE**
+
+The M433/M434 PPM' s are factory calibrated and normally d o not r e quire r ec al lbr at lon. These n s il i v it y strap SWI a c com mo dates input It ·vel s o f 0, +4, +8 and +14 dem fore i the r-600 o r-150 ohm Impedance s within +/_ 0.25 dB of these lec ted value. If i t becomes n ec e nary to r-e -cal lb rate the PPM, follow the procedure below,
+
+Note: This procedure is b a 5t!d upon a sensitivity switCh. selling of a dBm, 600 ohms. If a different setting Is used to calibrate theme te r, substitute thea p prop ria te levels.
+
+Strap SWI to the 0 dBm 600 ohm position and ensure that all trim controls are S&lt;'!t lull CCW. Ensure that the mechanical zero oft h e meter i5 set properly.
+
+Apply a 1 kHz signal a t -12 demo Terminate input with 6 00 ohms.
+
+Adj u 51 threshold control R22 tod eflect the meter to the -12 d B mark (' 1 ' o n BBC scale 1_1). The range oft his control should be app r o &quot; ima te ly +/ -3 d B.
+
+Increase the input level b y 4 dB to _8 dBm. Turn set 2 control R23 CW un ti I theme tern e.. d le moves to th.. -8 dBm mark on the see te (' 2 ' o n BBC scale).
+
+te ee e se input level by another 4 d B to _4 dBm. Turn Set 3 control R24 CW setting the needle to the _4 dBm mark on theme te r scale (' 3 ' o n eBC scale). Confirm linear i t y bye uen vet ing signal i n 1 d B steps to _8 dBm, meters h o u ld tracks igna l.
+
+Inc r ease input level to 0 demo Adjust Set 4 control R25 CW to set theme tern ee dl eon thea dBm mark on the meter scale !conf irm lin..a r i ty a sin 5).
+
+Increase Input level to +4 dBm. Adjust Set 5 control R26 CW to set theme t.. r needle on the +4 dBm mark on theme te r scale (con firm line ar-it y a sin 5).
+
+Increase input level to · 8 dBm. Adjust Set 6 control R21 CW to
+
+set theme te r nud leon the +8 dem mark On theme ter scale
+
+(confi rm linear it y as i n 5).
+
+**1014]]/101434 PEAK PROGRAM METER**
+
+Incr........ input level 10.12 dBm. Adjust Sel 7 COIHI&quot;OI R28 CW 10 se l the mele&lt;&quot; needle on Ihe +12 dBm ma..k on Ih e meier scale. In cr........ level b r 2 dB. Mel... n_d le should be.1 end.... Nt e... Conf l..m l inea.. itr 0 ' lhe see te b r &quot; tten.... ting sl g n.1 In 1 d B Slegs 11'I1&quot;OU91'1 f...11 se. l. down to _ 16 dBm. Mel et'&quot; needl. should.. _en Ihe ' off' ma rite.. e t -16 dBm +/ -1 d B. Sililn. l s below Ih isle vel s l'lo...ld nol ca us. e deflect ion oft t-e mele...
+
+p s.
+
+M 4 U/M4 J4 PEAK PROGRAM METER
+
+PARI PE SCRIPT ION MFG MEG PARI NUMBER
+
+PPM Aml'&gt;lifi er
+
+MeIer Movemenl f o.M433 (4&quot;) Bach. 523WL fo. M434 (4.5) Simpson 524WL
+
+Extension Cable (4 r t.) Mini Latch Housi nB Be~B 65SJ7-o 10 Mini PV Terminals PY'·47712
+
+SAM·OliO rPM AMPlifiER ASSUIR I Y
+
+C' C:l.l'&gt; a;i lo r 10 uf /3 5 Y Kemet T390Cl06M035AS C2 IOu F/35 Y C3 lO uF/3 5 Y C&lt; SOT (.9 10.97 uF /35 V) T3 90Bl OSM035AS CS 10 uF / 35 v T3 90CI 06 M03M S C. IOu F/ 35 V T390C I06 M03M S CJ 47 uF /16 V Rub yeon IOu F/35 V C' 22 pF Philips 2222·63t·5 B229 C, 150pF 2222·63S ·70 1S1 C R I 10 C R6 Diode Fail eh ild I N4 14! CR&gt; IN 4003
+
+10 Pin Con necto. Bu. 6562 4· 110 Qllo Tra nsinnrs
+
+2Nl906 Q' 2Nl904
+
+Resinor 1/4W 5 ~ 47 K Phi li l'&gt; S C R2S
+
+**270K**
+
+R6 Reaiato r 1/4W l 'lb 14K 3 Philips MR 25F
+
+**R' 3K57**
+
+R' l K58
+
+**ROO 3K.57**
+
+M4U1M4J4 P U Ji PROGRAM METER
+
+PART pESC R I PTlON MEG MfG PARI NJJMBE R
+
+ntt Resistor ! /4 W 1'lb9K 09
+
+**24 K3**
+
+Phfl ipl MR2SF
+
+' lJ ! /4 W 5% 15K
+
+**R&lt;6 82 K**
+
+.n 'OOK
+
+**'20 ' K'**
+
+ea 'OK.n Potentiome ter ' K PT l 0 H 5 K '23 20 K PT 10 H 20K
+
+**20 K**
+
+nz 20 K
+
+' 29 Resistor 1/4 W 5% 15K
+
+**.JO •• 47 K**
+
+.Jl &quot; K
+
+**.J&gt; &quot; K**
+
+nO K.38 lOOK
+
+**82 K**
+
+..e OK'
+
+</details>
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
