@@ -1,5 +1,5 @@
 # 1992 - M433 - 434 - Peak Program Meter.pdf
-Wiki page: [M433](../../../../PAGES/M433.md)
+Wiki page: [M433](../)
 
 
 - **Year:** 1992 (module estimate (manual_issue))

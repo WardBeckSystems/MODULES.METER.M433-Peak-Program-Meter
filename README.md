@@ -1,6 +1,6 @@
 # M433 Peak Program Meter · Meter
 
-Ward-Beck Systems M433, 1992|25. Wiki page: [M433 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M433.html)
+Ward-Beck Systems M433, 1992|25. Wiki page: [M433 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M433-Peak-Program-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|
