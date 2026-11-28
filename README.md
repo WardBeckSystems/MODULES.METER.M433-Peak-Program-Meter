@@ -4,13 +4,11 @@ Ward-Beck Systems M433, 1992|25. Wiki page: [M433 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 13 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 134 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 12 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 133 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 22 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -175,17 +173,9 @@ nO K.38 lOOK
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
-<table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb2dwNGV6bjktRWM/view?resourcekey=0-XsCaOJv9T140QAJ61ZdZ6Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb2dwNGV6bjktRWM&resourcekey=0-XsCaOJv9T140QAJ61ZdZ6Q" width="240" alt="1992 - M433 - [DWG 14-060-02-001] - AMPLIFIER ASSEMBLY SCHEMATIC.jpg"></a><br><sub>1992|25 · 14-060-02-001 - AMPLIFIER ASSEMBLY SCHEMATIC · <a href="SCHEMATICS/1992%20-%20M433%20-%20%5BDWG%2014-060-02-001%5D%20-%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTFRjTnB6bUlpRWs/view?resourcekey=0-ZOE8ta4wXviPFm6sNN9zXA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTFRjTnB6bUlpRWs&resourcekey=0-ZOE8ta4wXviPFm6sNN9zXA" width="240" alt="1992 - M433 - [DWG 14-060-06-001] - AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>1992|25 · 14-060-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT · <a href="SCHEMATICS/1992%20-%20M433%20-%20%5BDWG%2014-060-06-001%5D%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-</table>
-
-Not on Google Drive yet: `19xx - [DWG 14-060-02-001].jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M433 - RTO-144 Connections.pdf`
 
 ## Manuals and documents
 
@@ -205,13 +195,12 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
-- [1992 - M433 - [DWG 14-060-02-001] - AMPLIFIER ASSEMBLY SCHEMATIC.kicad_sch](KICAD/1992%20-%20M433%20-%20%5BDWG%2014-060-02-001%5D%20-%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC.kicad_sch)
 - [1992 - M433 - 434 - Peak Program Meter (2) p10.kicad_sch](KICAD/1992%20-%20M433%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p10.kicad_sch)
 - [1992 - M433 - [DWG 14-060-02-001] - 434 - Peak Program Meter (2) p18.kicad_sch](KICAD/1992%20-%20M433%20-%20%5BDWG%2014-060-02-001%5D%20-%20434%20-%20Peak%20Program%20Meter%20(2)%20p18.kicad_sch)
 - [1992 - M433 - [DWG 14-060-02-001] - 434 - Peak Program Meter p18.kicad_sch](KICAD/1992%20-%20M433%20-%20%5BDWG%2014-060-02-001%5D%20-%20434%20-%20Peak%20Program%20Meter%20p18.kicad_sch)
+- [1992 - M433 - [DWG 14-060-02-001] - AMPLIFIER ASSEMBLY SCHEMATIC.kicad_sch](KICAD/1992%20-%20M433%20-%20%5BDWG%2014-060-02-001%5D%20-%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC.kicad_sch)
 - [19xx - [DWG 14-060-02-001].kicad_sch](KICAD/19xx%20-%20%5BDWG%2014-060-02-001%5D.kicad_sch)
 - [M433.kicad_sym](KICAD/M433.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
